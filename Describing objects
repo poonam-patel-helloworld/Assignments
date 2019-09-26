@@ -1,0 +1,51 @@
+# Object 1: Pen
+
+{
+	"parts": ["body", "cap"],
+	"body": {
+		"draws": true,
+		"colour": "red"
+	},
+	"cap": {
+		"draws": false,
+		"colour": "black"
+	}
+}
+
+
+# Object 2: Book
+
+ {
+"object" : "Book", 
+"title" : "GamechangeR", 
+"colour" :"black and white", 
+"pages" : "15", 
+"size" : "palm size" 
+}
+
+# object 3: Phone
+
+{
+    "model" : "Samsung Galaxy S9",
+    "color" : "black",
+    "screen size" : "5.8 in",
+    "weight" : "5.75 oz",
+    "resolution" : "570 ppi",
+    "cameras" : "3",
+    "storage capacity" : "64 Gb",
+    " water resistant" : "yes"
+}
+
+
+# Object 4: Fridge
+
+{	
+	"fridge" : ["shelf 1", "shelf 2", "shelf 3" ],
+	"shelf 1": {"apple": true, "salad": false, "milk": true}, 
+	"shelf 2" : {"meat": false, "eggs":false},
+	"Shelf 3" : {"water":true, "chocolate":true}
+	
+} 
+
+
+
